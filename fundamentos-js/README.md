@@ -7,7 +7,7 @@ JS é uma linguagem de multiparadigma, que consegue resolver um problemas de var
 
 JS é uma linguagem interpretada
 
-## JavaScript: tipos, variaveis e funções
+### JavaScript: tipos, variaveis e funções
 
 > JS tem o var que armazena dados, porém a tag var permite ter duas var com o mesmo nome, para corrigir este problema, se usa o LET
 
